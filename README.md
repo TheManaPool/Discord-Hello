@@ -1,2 +1,0 @@
-# discord-welcome
-Automated message
